@@ -1,0 +1,13 @@
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\bin\Debug\netcoreapp3.1\Lab2alibs.exe
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\bin\Debug\netcoreapp3.1\Lab2alibs.deps.json
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\bin\Debug\netcoreapp3.1\Lab2alibs.runtimeconfig.json
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\bin\Debug\netcoreapp3.1\Lab2alibs.runtimeconfig.dev.json
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\bin\Debug\netcoreapp3.1\Lab2alibs.dll
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\bin\Debug\netcoreapp3.1\Lab2alibs.pdb
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\obj\Debug\netcoreapp3.1\Lab2alibs.csprojAssemblyReference.cache
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\obj\Debug\netcoreapp3.1\Lab2alibs.AssemblyInfoInputs.cache
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\obj\Debug\netcoreapp3.1\Lab2alibs.AssemblyInfo.cs
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\obj\Debug\netcoreapp3.1\Lab2alibs.csproj.CoreCompileInputs.cache
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\obj\Debug\netcoreapp3.1\Lab2alibs.dll
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\obj\Debug\netcoreapp3.1\Lab2alibs.pdb
+C:\Users\Ura\source\repos\Lab2a_individual task\Lab-2a_individual_task.lib\obj\Debug\netcoreapp3.1\Lab2alibs.genruntimeconfig.cache
